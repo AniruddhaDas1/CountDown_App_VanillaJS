@@ -4,7 +4,7 @@
 
 ## Project Details :
 
-_Whenever a user wants to store something in the clipboard, he enters in the textbox and on clicking on submit button, it will save in the clipboard._
+_Build a countdown app which takes the start position from the user and on reaching zero, the countdown stops._
 
 - Project Live Link : [https://count-down-app-vanilla-js.vercel.app/](https://count-down-app-vanilla-js.vercel.app/)
 
