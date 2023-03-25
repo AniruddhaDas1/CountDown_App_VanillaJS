@@ -1,6 +1,6 @@
 # Project - Countdown App
 
-![Project-Image](/Assets/proj-img.jpg)
+![Project-Image](/Assets/project-img.jpg)
 
 ## Project Details :
 
